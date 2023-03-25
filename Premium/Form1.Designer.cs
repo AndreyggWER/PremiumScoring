@@ -393,7 +393,7 @@
             this.Controls.Add(this.GroupBoxDecorWork);
             this.Controls.Add(this.GroupBoxSpeedWork);
             this.Name = "FormPremiumScoring";
-            this.Text = "Form1";
+            this.Text = "FormPremiumScoring";
             this.GroupBoxSpeedWork.ResumeLayout(false);
             this.GroupBoxSpeedWork.PerformLayout();
             this.GroupBoxDecorWork.ResumeLayout(false);
